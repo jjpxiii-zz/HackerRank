@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var str = "4\n1\n3\n5\n11"
 
 // read the integer n
@@ -18,7 +14,7 @@ func findSolution(n: Int) -> (x: Int, y:Int) {
         }
         yp -= 1
         xp += 1
-
+        
     }
     return (Int(xp), Int(yp))
 }
