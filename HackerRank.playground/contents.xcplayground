@@ -4,5 +4,7 @@
         <page name='AngryProfessor'/>
         <page name='DecentNumber'/>
         <page name='SherlockSquares'/>
+        <page name='UtopianTree'/>
+        <page name='Pangrams'/>
     </pages>
 </playground>
