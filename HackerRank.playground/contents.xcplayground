@@ -3,5 +3,6 @@
     <pages>
         <page name='AngryProfessor'/>
         <page name='DecentNumber'/>
+        <page name='SherlockSquares'/>
     </pages>
 </playground>
