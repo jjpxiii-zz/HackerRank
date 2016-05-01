@@ -13,14 +13,14 @@ for (var i = 1; i <= Int(String(n[0])); i++) {
 
     var pos = 0
     var neg = 0
-    for (var j = 0; j < arr2.count; j++) {
+    for j in 0 ..< arr2.count {
         if (arr2[j]>0)
         {
-            pos++
+            pos += 1
         }
         else
         {
-            neg++
+            neg += 1
         }
     }
     if (neg < arr[1])
