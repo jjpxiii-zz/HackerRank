@@ -6,5 +6,7 @@
         <page name='SherlockSquares'/>
         <page name='UtopianTree'/>
         <page name='Pangrams'/>
+        <page name='Euler'/>
+        <page name='CutTheSticks'/>
     </pages>
 </playground>

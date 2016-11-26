@@ -5,6 +5,6 @@
       location = "group:HackerRank.playground">
    </FileRef>
    <FileRef
-      location = "container:MyPlayground.playground">
+      location = "container:/Users/jj/Desktop/Projects/HackerRank/Codewars.playground">
    </FileRef>
 </Workspace>
