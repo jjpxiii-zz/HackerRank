@@ -3,6 +3,6 @@
     <pages>
         <page name='katas'/>
         <page name='Euler1'/>
-        <page name='Untitled Page 2'/>
+        <page name='ChuckNorris'/>
     </pages>
 </playground>
